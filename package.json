@@ -1,0 +1,8 @@
+{
+  "name": "node-api-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adoniasvitorio/node-api-example.git",
+  "author": "Adonias Vitorio <adonias.vitorio@gmail.com>",
+  "license": "MIT"
+}
