@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/adoniasvitorio/node-api-example.git",
   "author": "Adonias Vitorio <adonias.vitorio@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
