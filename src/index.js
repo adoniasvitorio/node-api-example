@@ -6,4 +6,6 @@ app.get('/', (request, response) => {
     return response.json({message: 'Hello world, I am NodeJS API example.'})
 });
 
-app.listen(3333);
+app.listen(3333, () => {
+    console.log('Back-end is running!')
+});
